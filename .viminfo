@@ -1,0 +1,421 @@
+# 本 viminfo 檔案是由 Vim 7.4 所產生.
+# 如果想要自行修改請特別小心！
+
+# 'encoding' 在此檔建立時的值
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Last Search Pattern:
+~MSle0~/pass
+
+# Last Substitute Search Pattern:
+~MSle0&tw.archive.ubuntu.com
+
+# 前一組替代字串:
+$free.nchc.org.tw
+
+# 命令列 歷史記錄 (新到舊):
+:wq
+:q
+:w
+:q!
+:%s/tw.archive.ubuntu.com/free.nchc.org.tw/g
+:Wq
+:Q
+:!!
+
+# 搜尋字串 歷史記錄 (新到舊):
+?/pass
+? tw.archive.ubuntu.com
+?/Remap-debrep
+
+# 運算式 歷史記錄 (新到舊):
+
+# 輸入行  歷史記錄 (新到舊):
+
+# 輸入行  歷史記錄 (新到舊):
+
+# 暫存器:
+"0	LINE	0
+	Acquire::http { Proxy "http://localhost:3142"; };
+"1	LINE	0
+	}
+"2	LINE	0
+	  server localhost:5000;
+"3	LINE	0
+	upstream docker-registry {
+"4	LINE	0
+	
+"5	LINE	0
+	# Replace with appropriate values where necessary
+"6	LINE	0
+	# See chunking http://wiki.nginx.org/HttpChunkinModule
+"7	LINE	0
+	# FYI: Chunking requires nginx-extras package on Debian Wheezy and some Ubuntu versions
+"8	LINE	0
+	# For nginx < 1.3.9
+"9	LINE	0
+	
+""-	CHAR	0
+	ebXD8o8feEMV
+
+# 檔案標記:
+'0  40  134  ~/docker/hecd/openresty/Dockerfile
+'1  1  0  ~/docker/hecd/openresty/Dockerfile
+'2  41  3  ~/docker/hecd/openresty/Dockerfile
+'3  9  23  ~/docker/hecd/.git/config
+'4  7  0  ~/docker/hecd/openresty/run.sh
+'5  62  6  ~/docker/hecd/openresty/Dockerfile
+'6  9  21  ~/docker/hecd/openresty/run.sh
+'7  39  9  ~/docker/hecd/openresty/Dockerfile
+'8  5  8  /etc/logrotate.d/nginx
+'9  22  0  /etc/nginx/nginx.conf
+
+# Jumplist (由新到舊):
+-'  40  134  ~/docker/hecd/openresty/Dockerfile
+-'  1  0  ~/docker/hecd/openresty/Dockerfile
+-'  41  3  ~/docker/hecd/openresty/Dockerfile
+-'  9  23  ~/docker/hecd/.git/config
+-'  1  0  ~/docker/hecd/.git/config
+-'  7  0  ~/docker/hecd/openresty/run.sh
+-'  1  0  ~/docker/hecd/openresty/run.sh
+-'  62  6  ~/docker/hecd/openresty/Dockerfile
+-'  9  21  ~/docker/hecd/openresty/run.sh
+-'  39  9  ~/docker/hecd/openresty/Dockerfile
+-'  5  8  /etc/logrotate.d/nginx
+-'  1  0  /etc/logrotate.d/nginx
+-'  22  0  /etc/nginx/nginx.conf
+-'  1  0  /etc/nginx/nginx.conf
+-'  139  1  /etc/nginx/nginx.conf
+-'  23  0  /etc/nginx/nginx.conf
+-'  1  0  /etc/nginx/conf.d/nginx
+-'  10  0  /etc/nginx/conf.d/reverse_proxy.conf
+-'  1  0  /etc/nginx/conf.d/reverse_proxy.conf
+-'  93  1  /etc/nginx/nginx.conf
+-'  57  39  /etc/nginx/nginx.conf
+-'  28  0  /etc/nginx/nginx.conf
+-'  25  0  /etc/nginx/nginx.conf
+-'  40  29  /etc/nginx/nginx.conf
+-'  85  3  /etc/nginx/nginx.conf
+-'  156  29  /etc/nginx/nginx.conf
+-'  186  0  /etc/nginx/nginx.conf
+-'  5  36  /etc/nginx/docker-registry.conf
+-'  1  0  /etc/nginx/docker-registry.conf
+-'  160  0  /etc/nginx/nginx.conf
+-'  16  0  ~/.tmux.conf
+-'  1  0  ~/.tmux.conf
+-'  8  38  ~/start-registry-ui.sh
+-'  1  0  ~/start-registry-ui.sh
+-'  422  35  /etc/apt-cacher-ng/acng.conf
+-'  366  0  /etc/apt-cacher-ng/acng.conf
+-'  1  0  /etc/apt-cacher-ng/acng.conf
+-'  15  1  /etc/crontab
+-'  1  0  /etc/crontab
+-'  16  52  /etc/crontab
+-'  1  8  /etc/apt/sources.list.d/docker.list
+-'  2  12  /etc/apt/apt.conf.d/20proxy
+-'  1  0  /etc/apt/apt.conf.d/20proxy
+-'  3  35  /etc/cron.daily/apt-get-update
+-'  1  0  /etc/cron.daily/apt-get-update
+-'  10  0  /etc/default/docker.io
+-'  1  0  /etc/default/docker.io
+-'  3  13  /etc/hosts
+-'  1  0  /etc/hosts
+-'  1  8  /etc/hostname
+-'  37  0  /etc/apt/sources.list
+-'  1  0  /etc/apt/sources.list
+-'  1  422  ~/.ssh/authorized_keys
+-'  1  0  /etc/apt/apt-conf.d/20proxy
+-'  1  0  /etc/apt/20proxy
+-'  16  34  /etc/apt-cacher-ng/acng.conf
+-'  63  47  /etc/apt-cacher-ng/acng.conf
+-'  42  19  /etc/apt-cacher-ng/acng.conf
+-'  391  0  /etc/apt-cacher-ng/acng.conf
+-'  1  37  /etc/apt/apt.conf.d/10proxy
+-'  2  0  /etc/hosts
+-'  1  26  /etc/profile.d/language.sh
+-'  1  0  /etc/modprobe.d/blacklist
+-'  21  0  /etc/init.d/networking
+-'  1  0  /etc/init.d/networking
+-'  21  0  /etc/init.d/networking
+-'  1  0  /etc/init.d/networking
+-'  1  0  /etc/modprobe.d/blacklist
+-'  21  0  /etc/init.d/networking
+-'  1  0  /etc/init.d/networking
+-'  21  0  /etc/init.d/networking
+-'  1  0  /etc/init.d/networking
+-'  1  26  /etc/profile.d/language.sh
+-'  1  0  /etc/modprobe.d/blacklist
+-'  21  0  /etc/init.d/networking
+-'  1  0  /etc/init.d/networking
+-'  21  0  /etc/init.d/networking
+-'  1  0  /etc/init.d/networking
+-'  1  0  /etc/modprobe.d/blacklist
+-'  21  0  /etc/init.d/networking
+-'  1  0  /etc/init.d/networking
+-'  21  0  /etc/init.d/networking
+-'  1  0  /etc/init.d/networking
+-'  1  26  /etc/profile.d/language.sh
+-'  1  0  /etc/modprobe.d/blacklist
+-'  21  0  /etc/init.d/networking
+-'  1  0  /etc/init.d/networking
+-'  21  0  /etc/init.d/networking
+-'  1  0  /etc/init.d/networking
+-'  1  0  /etc/modprobe.d/blacklist
+-'  21  0  /etc/init.d/networking
+-'  1  0  /etc/init.d/networking
+-'  21  0  /etc/init.d/networking
+-'  1  0  /etc/init.d/networking
+-'  1  26  /etc/profile.d/language.sh
+-'  1  0  /etc/modprobe.d/blacklist
+-'  21  0  /etc/init.d/networking
+-'  1  0  /etc/init.d/networking
+
+# 檔案內 Mark 記錄 (由新到舊):
+
+> ~/docker/hecd/openresty/Dockerfile
+	"	40	134
+	^	40	135
+	.	40	134
+	+	38	28
+	+	39	0
+	+	40	0
+	+	39	9
+	+	62	6
+	+	43	32
+	+	44	3
+	+	40	134
+
+> ~/docker/hecd/.git/config
+	"	9	23
+	^	9	24
+	.	9	12
+	+	7	22
+	+	9	10
+	+	10	0
+	+	9	12
+
+> ~/docker/hecd/openresty/run.sh
+	"	7	0
+	^	7	0
+	.	7	0
+	+	9	20
+	+	3	33
+	+	7	1
+	+	1	9
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+
+> /etc/logrotate.d/nginx
+	"	5	8
+	^	5	9
+	.	5	8
+	+	2	5
+	+	5	8
+
+> /etc/nginx/nginx.conf
+	"	22	0
+	^	22	0
+	.	21	1
+	+	136	19
+	+	186	1
+	+	194	0
+	+	156	29
+	+	132	0
+	+	85	3
+	+	70	0
+	+	40	29
+	+	1	0
+	+	1	13
+	+	1	0
+	+	27	0
+	+	25	24
+	+	26	0
+	+	1	0
+	+	28	0
+	+	57	39
+	+	115	0
+	+	114	1
+	+	113	2
+	+	112	1
+	+	111	2
+	+	110	0
+	+	109	9
+	+	110	0
+	+	109	9
+	+	108	2
+	+	107	0
+	+	106	1
+	+	105	1
+	+	103	1
+	+	101	2
+	+	100	0
+	+	99	0
+	+	98	0
+	+	97	0
+	+	96	0
+	+	21	1
+
+> /etc/nginx/conf.d/reverse_proxy.conf
+	"	2	10
+	^	2	11
+	.	2	10
+	+	24	1
+	+	4	0
+	+	5	0
+	+	3	0
+	+	4	0
+	+	6	1
+	+	8	1
+	+	10	1
+	+	12	3
+	+	13	1
+	+	4	1
+	+	5	0
+	+	6	1
+	+	7	0
+	+	8	0
+	+	10	1
+	+	12	0
+	+	13	1
+	+	12	1
+	+	14	0
+	+	15	8
+	+	16	0
+	+	18	0
+	+	20	0
+	+	21	0
+	+	20	1
+	+	21	0
+	+	21	22
+	+	22	1
+	+	17	1
+	+	18	40
+	+	3	16
+	+	3	0
+	+	1	5
+	+	25	0
+	+	1	0
+	+	2	10
+	e	3	11
+	i	3	11
+
+> /etc/nginx/conf.d/nginx
+	"	1	0
+
+> /etc/nginx/docker-registry.conf
+	"	5	36
+	^	5	37
+	.	5	36
+	+	5	36
+
+> ~/.tmux.conf
+	"	16	0
+	.	76	0
+	+	130	0
+	+	75	0
+	+	76	0
+
+> ~/start-registry-ui.sh
+	"	8	38
+	^	8	39
+	.	8	0
+	+	8	0
+
+> /etc/apt-cacher-ng/acng.conf
+	"	422	35
+	^	422	36
+	.	422	0
+	+	42	19
+	+	64	0
+	+	16	41
+	+	422	0
+
+> /etc/crontab
+	"	15	1
+	^	15	2
+	.	15	1
+	+	16	53
+	+	15	28
+	+	16	16
+	+	15	1
+
+> /etc/apt/sources.list.d/docker.list
+	"	1	8
+	.	1	8
+	+	1	8
+
+> /etc/apt/apt.conf.d/20proxy
+	"	2	12
+	^	2	13
+	.	2	13
+	+	1	0
+	+	2	14
+	+	1	13
+	+	2	13
+
+> /etc/cron.daily/apt-get-update
+	"	3	35
+	^	3	36
+	.	3	35
+	+	3	35
+
+> /etc/default/docker.io
+	"	10	0
+	^	10	1
+	.	10	0
+	+	7	0
+	+	10	0
+
+> /etc/hosts
+	"	3	13
+	^	2	1
+	.	3	13
+	+	3	19
+	+	2	0
+	+	3	13
+
+> /etc/hostname
+	"	1	8
+	^	2	0
+	.	1	9
+	+	1	9
+
+> /etc/apt/sources.list
+	"	37	0
+	.	5	0
+	+	5	0
+
+> ~/.ssh/authorized_keys
+	"	1	422
+	^	1	423
+	.	1	423
+	+	1	423
+
+> /etc/apt/apt-conf.d/20proxy
+	"	1	0
+
+> /etc/apt/20proxy
+	"	1	0
+
+> /etc/apt/apt.conf.d/10proxy
+	"	1	37
+	^	1	38
+	.	1	37
+	+	1	37
+
+> /etc/profile.d/language.sh
+	"	1	26
+	^	1	27
+	.	1	26
+	+	1	26
+
+> /etc/modprobe.d/blacklist
+	"	1	0
+
+> /etc/init.d/networking
+	"	21	0
