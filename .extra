@@ -1,4 +1,1 @@
 #!/bin/sh
-
-# for node.js run, add configuration
-ulimit -n 2048
