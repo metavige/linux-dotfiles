@@ -5,5 +5,5 @@
 ## 安裝方式
 
 ```bash
-bash <(curl -s https://github.com/metavige/linux-dotfiles/raw/master/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/metavige/linux-dotfiles/master/install.sh)
 ```
