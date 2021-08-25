@@ -61,8 +61,3 @@ alias v="vim"
 # File size
 alias fs="stat -f \"%z bytes\""
 
-alias dpid="docker inspect --format '{{.State.Pid}}'"
-alias dip="docker inspect --format '{{ .NetworkSettings.IPAddress }}'"
-alias dr="docker run"
-
-alias tmuxa="tmux new-session -A -s main"
